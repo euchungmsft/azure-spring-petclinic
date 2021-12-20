@@ -1,3 +1,6 @@
+tmp
+memo.txt
+
 target/*
 .settings/*
 .classpath
